@@ -1,0 +1,26 @@
+.navbar, .navbar-default .navbar-brand{
+  background-color: #365887;
+  font-size: 1.2em;
+}
+
+.navbar-default .navbar-brand, .navbar-default .navbar-nav>li>a {
+    color: #d6d6d6;
+    transition: all 0.4s;
+}
+
+.navbar-default .navbar-brand:hover, .navbar-default .navbar-nav>li>a:hover {
+    color: white;
+}
+
+.jumbotron{
+  padding: 100px;
+  border-radius: 1%;
+}
+
+.jumbotron .btn{
+  transition: all 0.6s
+}
+
+.jumbotron h1, .jumbotron p{
+  color: #a6a6a6;
+}
